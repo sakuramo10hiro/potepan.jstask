@@ -1,0 +1,25 @@
+#timer{
+  display: inline-block;
+  font-size: 30px;
+  margin: 30px 10px;
+  font-weight: 500;
+}
+
+#start{
+  display: inline-block;
+  border: 1px solid black;
+  background:#c0c0c0;
+}
+
+#stop{
+  display: inline-block;
+  border: 1px solid black;
+  background:#c0c0c0;
+}
+
+#reset{
+  display: inline-block;
+  border: 1px solid black;
+  background:#c0c0c0;
+}
+
